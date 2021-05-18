@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    background: rgb(33, 140, 23);
+    place-items: center;
+    justify-content: center;
+    height: 100vh;
+    }	
+    .container{
+    background: rgb(10, 204, 218);
+    border-radius: 20px;
+    box-shadow: rgb(23, 139, 19) 0px 0px 10px;
+    padding: 20px;
+    }	
+
+     a {
+         background-color: rgb(6, 175, 6);
+         font-size: 20px;
+         outline:rgb(6, 175, 6)
+     }
